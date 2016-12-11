@@ -1,0 +1,9 @@
+*{
+	font-family: Tahoma;
+}
+#par1{
+	color: #0074A2;
+}
+.par2{
+	background-color: red;
+}

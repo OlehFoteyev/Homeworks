@@ -1,0 +1,28 @@
+.infa{
+		 margin:20px;
+}
+body{
+	background-color:pink;
+	border:5px solid black;
+	color:navy;
+	font-style:italic;
+}
+h1 { 
+color: navy; 
+font-size: 200%;   
+} 
+.work{
+	text-align:left;	
+
+	 padding:20px;
+}
+.information
+{
+	border:2px dashed red
+	text-align:left;
+}
+.feedback{
+	margin:auto;
+}
+
+

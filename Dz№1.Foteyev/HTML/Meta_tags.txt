@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+	<head> 
+		<meta name="keywords" content="Старушка,дилая,Web-programming">
+		<meta name="description" content="Почему я занялся веб-программированием."
+		<title>Personal Web Page - Exercise</title>
+		
+	</head>
+	<body>
+		<!--Test comment --> 
+		<h1> Старушка!</h1>
+		<p>
+			Как <stronag><i>то</i></strong> летом на рассвете я переходил через <u>дорогу</u>.
+		</p>
+		
+		<p>
+			Возле <stronag><i>светофора</i></strong> стояла милая <u>леди</u>.
+		</p>
+		
+		<p>
+		Вот <stronag><i>она</i></strong> заглянула мне в глаза и после тихо прошептала:"Web-<u>programming</u>!!!".
+		</p>
+	</body>
+</html>

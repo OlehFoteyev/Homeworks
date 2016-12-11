@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Simple selectors</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<span>
+		<p class="bold">bold</p>
+		<p class="italic">italic</p>
+		<p class="underline">underline</p>
+	</span>
+</body>
+</html>

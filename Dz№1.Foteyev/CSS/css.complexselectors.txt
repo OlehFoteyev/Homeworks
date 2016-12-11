@@ -1,0 +1,9 @@
+div b{
+	color: #FF3399;
+}
+#par1{
+	background-color:red;
+}
+#par1:hover{
+	background-color:#003300 ;
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<title>CSS block model</title>
+</head>
+<body>
+	<div class="container">
+		<div class="contact-form"> That would be a form.</div>
+		<div class="header"> Header</div>
+		<div class="navigation"> 
+			<a href="http://home.com"> Home</a>
+			<a href=""http://aboutus.com">About us</a>
+			<a href=""http://contact.com">Contact</a>
+		</div>
+		<div class="content"> Content</div>
+		<div class="footer"> Foteer</div>
+	</div>
+</body>
+</html>
