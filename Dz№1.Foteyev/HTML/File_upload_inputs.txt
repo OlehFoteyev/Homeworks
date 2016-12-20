@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+	<head>
+	<title>
+		Hidden inputs
+	</title>
+	</head>
+	<body>
+	<h1 ><strong> Questionnaire</strong></h1>
+		<form action="index.html" method="get">
+		<form>
+			<input type="hidden" name="data" value="4.12.20017" />
+		</form>
+			<table>
+				<tr>
+					<td>Name:</td>
+					<td><input type="text"  name="name" /></td>
+				</tr>
+				<tr>
+					<td>Email:</td>
+					<td><input type="email" name="email" /></td>
+				</tr>
+				<tr>
+					<td>Phone:</td>
+					<td><input type="phone" name="phone" /></td>
+				</tr>
+				<tr>
+					<td>Message:</td>
+					<td colspan="2"><textarea  name="Message"></textarea></td>
+				</tr>
+				<tr>
+					<td>Gender: </td>
+					<td>
+						<input type="radio" name="gender" value="male" /> Male <br>
+						<input type="radio" name="gender" value="female" /> Female <br>
+					</td>
+				</tr>
+				<tr>
+					<td> Types of applications:</td>
+					<td><input type="checkbox" name="types of applications"> Market applications </td>
+					<td><input type="checkbox" name="Applications to price restriction"> Applications to price restriction </td>
+					<td><input type="checkbox" name="Stop-applications"> Stop-applications </td>
+				</tr>
+				<tr>
+					<td>Select your country:</td>
+					<td>
+						<select name="avd">
+							<option value="uk">Ukraine</option>
+							<option value="rus">Russian</option>
+							<option value="gr">Germany</option>
+							<option value="en">England</option>
+							<option value="fr">France</option>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"><input type="submit"></td>
+				</tr>
+			</table>
+		</form><br>
+		<form enctype="multipart/form-data" method="post">
+			Update your questionnaire:
+			<input type="file" name="questionnaire">
+			<input type="submit">
+		</form>
+			
+	</body>
+</html>

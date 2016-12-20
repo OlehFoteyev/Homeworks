@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>Personal Web Page - Exercise</title>
+	</head>
+	<body>
+		<!--Test comment --> <h1> Старушка!</h1>
+		<p>
+			Как то летом на рассвете я переходил через дорогу.
+		</p>
+		
+		<p>
+			Возле светофора стояла милая леди.
+		</p>
+		
+		<p>
+		Вот она заглянула мне в глаза и после тихо прошептала:"Web-programming!!!".
+		</p>
+	</body>
+</html>

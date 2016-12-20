@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+	<title>
+		Lists
+	</title>
+	</head>
+	<body>
+	&lt;html&gt;<br>
+	&lt;title&gt;<br>
+	Lists<br>
+	&lt;/title&gt;<br>
+	&lt;body&gt;<br>
+		<ol type="1">
+			<li>Африка </li>
+				<ul tupe="circle">
+					<li> Южный Судан</li>
+					<li> Эфиопия</li>
+					<li> Чад</li>
+				</ul>	
+			<li> Азия </li>
+				<ul tupe="circle">
+					<li> Азербайджан</li>
+					<li> Афганистан</li>
+					<li>  Бахрейн</li>
+				</ul>
+			<li> Европа </li>
+				<ul tupe="circle">
+					<li> Австрия</li>
+					<li> Албания</li>
+					<li> Гернси</li>
+				</ul>
+		</ol>
+	&lt;/body&gt;<br>
+	&lt;/html&gt;<br>
+	</body>
+</html>

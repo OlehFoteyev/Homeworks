@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Simple selectors</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<h1> CSS </h1>
+	<p> 
+		Когда таблиц стилей еще не существовало, для задания размера и гарнитуры шрифта применялся тег font. Однако, в данный момент использование данного тега не рекомендуется. Ниже приведены примеры использования данного тега.<br>
+	</p>
+	<p id="par1">
+		<a href='http://google.com/' title='Take me to Google' target='_blank'>Google</a><br>
+		<a href='https://www.yandex.ua/' title='Take me to Yandex' target='_blank'>Yandex</a><br>
+	</p>
+	<div>
+	<p class="par2"> BAR<br>
+		<b>Having a business meeting, a presentation or a big company dinner? Or do you simply feel like celebrating something? BAR is the ideal location to host your event.</b><br>
+		Milk Bar<br>
+		<b>Сайт содержит информацию, не рекомендованную для лиц, не достигших совершеннолетия. Достигли ли Вы совершеннолетия? </b><br>
+	</p>
+	</div>
+</body>
+</html>

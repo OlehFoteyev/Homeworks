@@ -1,0 +1,4 @@
+p {border: solid 1px;}
+.bold{font-weigth:900;}
+.italic{font-style:italic;}
+.underline{text-decoration:underline;}

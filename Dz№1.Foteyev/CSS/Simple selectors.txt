@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Simple selectors</title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<h1> CSS </h1>
+	<p> 
+		 огда таблиц стилей еще не существовало, дл€ задани€ размера и гарнитуры шрифта примен€лс€ тег font. ќднако, в данный момент использование данного тега не рекомендуетс€. Ќиже приведены примеры использовани€ данного тега.<br>
+	</p>
+	<p id="par1">
+		<a href='http://google.com/' title='Take me to Google' target='_blank'>Google</a><br>
+		<a href='https://www.yandex.ua/' title='Take me to Yandex' target='_blank'>Yandex</a><br>
+	</p>
+	<div>
+	<p class="par2"> BAR </p>
+	</div>
+</body>
+</html>
